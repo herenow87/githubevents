@@ -1,28 +1,3 @@
-b.jb;;;;ub'ub'
-h .j ;'
+Hello this is kafka
 
-
-lbhvkkkckck
-
-lbhhbhjkgcfgjfggf
-
-rdsggfds
-
-fdafdsaf
-njbljctktkkcuyvbuk
-
-fdsffwef
-
-lhhvjvgg
-
-
-fdsafewfewfew
-
-
-klublyvvgv
-
-hjhhvjhjhvvg
-
-
-lbulvyyutk
-lhhjvvjhhvg
+Sample kafka test
